@@ -85,7 +85,7 @@ ggplot(Data.1, aes(h_payn_dv)) +
   )
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-2-1.png?raw=true)
 
 *Interpretation*
 ----------------
@@ -112,7 +112,7 @@ ggplot(Data.2, aes(h_age_dv, h_payn_dv)) +
   )
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-3-1.png)
+![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-3-1.png?raw=true)
 
 *Interpretation*
 ----------------
@@ -138,7 +138,7 @@ ggplot(data = Data.3, aes(x = sex_dv, y = median)) +
     )
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-4-1.png?raw=true)
 
 *Interpretation*
 ----------------
@@ -170,7 +170,7 @@ ggplot(data = Data.4, aes(x = h_gor_dv, y = placeBorn)) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-5-1.png?raw=true)
 
 *Interpretation*
 ----------------
@@ -199,7 +199,7 @@ ggplot(Data.5, aes(x = h_age_dv, fill = sex_dv)) +
                        aesthetics = c("colour", "fill"))
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-6-1.png?raw=true)
 
 *Interpretation*
 ----------------
