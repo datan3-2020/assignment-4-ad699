@@ -170,7 +170,7 @@ ggplot(data = Data.4, aes(x = h_gor_dv, y = placeBorn)) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](https://github.com/datan3-2020/assignment-4-ad699/blob/master/unnamed-chunk-5-1.png)
 
 *Interpretation*
 ----------------
