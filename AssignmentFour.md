@@ -138,7 +138,7 @@ ggplot(data = Data.3, aes(x = sex_dv, y = median)) +
     )
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](https://github.com/datan3-2020/assignment-4-ad699/blob/master/unnamed-chunk-4-1.png)
 
 *Interpretation*
 ----------------
