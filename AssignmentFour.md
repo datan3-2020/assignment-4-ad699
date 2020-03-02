@@ -85,7 +85,7 @@ ggplot(Data.1, aes(h_payn_dv)) +
   )
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](https://github.com/datan3-2020/assignment-4-ad699/blob/master/unnamed-chunk-2-1.png)
 
 *Interpretation*
 ----------------
