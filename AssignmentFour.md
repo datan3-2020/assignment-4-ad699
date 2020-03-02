@@ -199,7 +199,7 @@ ggplot(Data.5, aes(x = h_age_dv, fill = sex_dv)) +
                        aesthetics = c("colour", "fill"))
 ```
 
-![](AssignmentFour_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](https://github.com/datan3-2020/assignment-4-ad699/blob/master/unnamed-chunk-6-1.png)
 
 *Interpretation*
 ----------------
